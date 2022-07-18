@@ -1,5 +1,10 @@
 /*
 This is the code of insertion sort(Ascending order) done in C
+Best Case scenerio O(n)
+Worst Case Scenerio O(n^2)
+Average Case Scenerio O(n^2)
+Even though the average case and the worst case scenerio is same as Bubble Sort or Selection Sort,the number of
+shifts are lower so practically this is a better algorithm.
 */
 #include<stdio.h>
 #include<stdlib.h>
